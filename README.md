@@ -33,6 +33,13 @@ A structured and well-organized collection of modern development badges with off
 [![Unsplash](https://img.shields.io/badge/Images-Unsplash-black?logo=unsplash\&logoColor=white)](https://unsplash.com/)
 [![Unsplash API](https://img.shields.io/badge/API-Unsplash%20Developers-000000?logo=unsplash\&logoColor=white)](https://unsplash.com/developers)
 
+<!-- Languages & Web Standards -->
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/doc/)
+
 <!-- Infra & Runtime -->
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -40,12 +47,10 @@ A structured and well-organized collection of modern development badges with off
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-<!-- Languages & Web Standards -->
+<!-- nodemon / dev watcher -->
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/doc/)
+[![nodemon](https://img.shields.io/badge/Dev%20Tool-nodemon-76D04B?logo=node.js\&logoColor=white)](https://nodemon.io/)
+[![nodemon on npm](https://img.shields.io/npm/v/nodemon?label=npm%20v&logo=npm\&logoColor=white)](https://www.npmjs.com/package/nodemon)
 
 <!-- Databases -->
 
@@ -159,14 +164,16 @@ A structured and well-organized collection of modern development badges with off
 - Heroicons docs: [https://heroicons.com/](https://heroicons.com/)
 - Unsplash main site: https://unsplash.com/
 - Unsplash Developers (API & docs): https://unsplash.com/developers
-- Node.js docs: [https://nodejs.org/](https://nodejs.org/)
-- Express docs: [https://expressjs.com/](https://expressjs.com/)
-- React docs: [https://react.dev/](https://react.dev/)
-- Next.js docs: [https://nextjs.org/docs](https://nextjs.org/docs)
 - JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
 - Go (Golang) docs: [https://go.dev/doc/](https://go.dev/doc/)
+- Node.js docs: [https://nodejs.org/](https://nodejs.org/)
+- Express docs: [https://expressjs.com/](https://expressjs.com/)
+- React docs: [https://react.dev/](https://react.dev/)
+- Next.js docs: [https://nextjs.org/docs](https://nextjs.org/docs)
+- nodemon site: https://nodemon.io/
+- nodemon (npm): https://www.npmjs.com/package/nodemon
 - PostgreSQL docs: [https://www.postgresql.org/](https://www.postgresql.org/)
 - MySQL docs: [https://dev.mysql.com/](https://dev.mysql.com/)
 - MongoDB docs: [https://www.mongodb.com/](https://www.mongodb.com/)
