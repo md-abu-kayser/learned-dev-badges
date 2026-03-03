@@ -28,6 +28,11 @@ A structured and well-organized collection of modern development badges with off
 [![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=fontawesome&logoColor=white)](https://fontawesome.com/)
 [![Heroicons](https://img.shields.io/badge/Heroicons-0EA5E9?logo=heroicons&logoColor=white)](https://heroicons.com/)
 
+<!-- Unsplash / Images -->
+
+[![Unsplash](https://img.shields.io/badge/Images-Unsplash-black?logo=unsplash\&logoColor=white)](https://unsplash.com/)
+[![Unsplash API](https://img.shields.io/badge/API-Unsplash%20Developers-000000?logo=unsplash\&logoColor=white)](https://unsplash.com/developers)
+
 <!-- Infra & Runtime -->
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -152,6 +157,8 @@ A structured and well-organized collection of modern development badges with off
 - Google Fonts docs: [https://fonts.google.com/](https://fonts.google.com/)
 - Font Awesome docs: [https://fontawesome.com/](https://fontawesome.com/)
 - Heroicons docs: [https://heroicons.com/](https://heroicons.com/)
+- Unsplash main site: https://unsplash.com/
+- Unsplash Developers (API & docs): https://unsplash.com/developers
 - Node.js docs: [https://nodejs.org/](https://nodejs.org/)
 - Express docs: [https://expressjs.com/](https://expressjs.com/)
 - React docs: [https://react.dev/](https://react.dev/)
