@@ -50,7 +50,7 @@ A structured and well-organized collection of modern development badges with off
 <!-- nodemon / dev watcher -->
 
 [![nodemon](https://img.shields.io/badge/Dev%20Tool-nodemon-76D04B?logo=node.js\&logoColor=white)](https://nodemon.io/)
-[![nodemon](https://img.shields.io/badge/npm%20nodemon-76D04B?logo=node.js\&logoColor=red)](https://www.npmjs.com/package/nodemon)
+[![nodemon on npm](https://img.shields.io/npm/nodemon?label=npm%20v&logo=npm\&logoColor=white)](https://www.npmjs.com/package/nodemon)
 
 <!-- morgan / http logger -->
 
@@ -59,6 +59,11 @@ A structured and well-organized collection of modern development badges with off
 <!-- helmet / security headers -->
 
 [![helmet](https://img.shields.io/badge/helmet-npm-0F172A?logo=shield\&logoColor=white)](https://www.npmjs.com/package/helmet)
+
+<!-- winston / logger -->
+
+[![winston](https://img.shields.io/badge/Logger-winston-4A5568?logo=node.js&logoColor=white)](https://github.com/winstonjs/winston)
+[![winston on npm](https://img.shields.io/npm/v/winston?label=npm%20v&logo=npm&logoColor=white)](https://www.npmjs.com/package/winston)
 
 <!-- Databases -->
 
@@ -184,6 +189,8 @@ A structured and well-organized collection of modern development badges with off
 - nodemon (npm): https://www.npmjs.com/package/nodemon
 - morgan (npm / docs): https://www.npmjs.com/package/morgan
 - helmet (npm / docs): https://www.npmjs.com/package/helmet
+- Winston (GitHub / main README & examples): https://github.com/winstonjs/winston 
+- Winston (npm page): https://www.npmjs.com/package/winston
 - PostgreSQL docs: [https://www.postgresql.org/](https://www.postgresql.org/)
 - MySQL docs: [https://dev.mysql.com/](https://dev.mysql.com/)
 - MongoDB docs: [https://www.mongodb.com/](https://www.mongodb.com/)
